@@ -35,10 +35,21 @@ This script automates:
 - Logging - Event tracking and debugging
 
 ## Screenshots
-![Folder Monitoring Log](screenshot.png)
-![Test Folder- new file is added](screenshot1.png)
-![Email sent successfully](Screenshot2.png)
-![Email Notification](Screenshot3.png)
+- **Folder Monitoring Log**  
+  ![Folder Monitoring Log](screenshot.png)  
+  Displays the log of monitored folder activities.  
+
+- **Test Folder - New File Added**  
+  ![Test Folder - New File Added](screenshot1.png)  
+  Shows a new file being added to the test folder.  
+
+- **Email Sent Successfully**  
+  ![Email Sent Successfully](Screenshot2.png)  
+  Confirms that the email was sent after file upload.  
+
+- **Email Notification**  
+  ![Email Notification](Screenshot3.png)  
+  Displays the received email notification.  
 
 ## Setup & Usage
 ### Prerequisites
