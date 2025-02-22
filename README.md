@@ -37,8 +37,8 @@ This script automates:
 ## Screenshots
 ![Folder Monitoring Log](screenshot.png)
 ![Test Folder- new file is added](screenshot1.png)
-![Email sent successfully](screenshot2.png)
-![Email Notification](screenshot3.png)
+![Email sent successfully](Screenshot2.png)
+![Email Notification](Screenshot3.png)
 
 ## Setup & Usage
 ### Prerequisites
